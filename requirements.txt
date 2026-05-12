@@ -1,0 +1,11 @@
+requests
+pandas
+beautifulsoup4
+openpyxl
+lxml
+matplotlib
+wordcloud
+scikit-learn
+anytree
+numpy
+pillow
