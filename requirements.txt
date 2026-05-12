@@ -1,11 +1,18 @@
-requests
+# Core
 pandas
+numpy
+
+# Web scraping / Excel I/O
+requests
 beautifulsoup4
-openpyxl
 lxml
+openpyxl
+
+# Visualization / text mining
 matplotlib
 wordcloud
+pillow
+
+# Machine learning / tree rendering
 scikit-learn
 anytree
-numpy
-pillow
